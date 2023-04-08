@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/state-task-from-codepen.iml" filepath="$PROJECT_DIR$/.idea/state-task-from-codepen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/counter-state-task-from-codepen.iml" filepath="$PROJECT_DIR$/.idea/counter-state-task-from-codepen.iml" />
     </modules>
   </component>
 </project>
